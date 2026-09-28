@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "686719671388",
+    "firebase_url": "https://qtv-asrvtech-default-rtdb.firebaseio.com",
+    "project_id": "qtv-asrvtech",
+    "storage_bucket": "qtv-asrvtech.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686719671388:android:f956c97f07b8dbf39dda99",
+        "android_client_info": {
+          "package_name": "com.asrvtech.qtv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686719671388-lgjc7gou5odsr54vdmlhpj3oe68j3kvq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asrvtech.qtv",
+            "certificate_hash": "39f5469a40882081a8e8e6507f3737bfc2d106da"
+          }
+        },
+        {
+          "client_id": "686719671388-53kceatd8tsa6ancr1uj7oa502ekuef6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEt-fs4gVHxg280WKV5rxeCbVMCyehBAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686719671388-53kceatd8tsa6ancr1uj7oa502ekuef6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
